@@ -1,0 +1,52 @@
+table {
+    border: 1px solid rgb(18, 18, 21);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+
+.input {
+    width: 100%;
+    padding: 20px 40px;
+    background-color:rgb(15, 4, 48);
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type="text"] {
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+.divcontainer
+{
+    background-color: black;
+    background-size: cover;
+    padding:100px;
+}
+.headingvalu
+{
+    color: rgb(246, 240, 240);
+    font-weight: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+    
+}
+.inputvalue {
+    width: 100%;
+    padding: 20px 40px;
+    background-color:rgb(235, 11, 11);
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
